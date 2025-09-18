@@ -43,3 +43,41 @@ Hubungannya sangat langsung dan tidak terpisahkan: Python adalah bahasanya, seda
 Kita sebenarnya bisa menulis kode Python hanya dengan Notepad biasa, lalu menjalankannya secara manual. Namun, cara itu sangat tidak praktis, terutama untuk proyek yang besar. PyCharm menyediakan semua fasilitas yang dibutuhkan agar Anda bisa fokus pada penulisan logika program tanpa repot dengan hal-hal teknis lainnya.
 
 ---
+## 📤 Panduan Lengkap Instalasi Python dan PyCharm 
+Tutorial ini akan memandumu langkah demi langkah untuk menginstal Python versi 3.9.13 dan PyCharm Community Edition, serta cara memeriksa konfigurasi lingkungan.
+
+---
+
+## Tahap 1: Instalasi Python 3.9.13
+
+### 1.1 Unduh Python
+
+1.  Kunjungi situs resmi Python: [https://www.python.org/downloads/release/python-3913/](https://www.python.org/downloads/release/python-3913/).
+2.  Gulir ke bawah ke bagian **Files**. Pilih installer yang sesuai dengan sistem operasi (OS) kamu:
+    * **Untuk Windows:** Cari `Windows installer (64-bit)` jika OS kamu 64-bit.
+    * **Untuk macOS:** Cari `macOS 64-bit Intel installer`.
+    * **Untuk Linux:** Python biasanya sudah terpasang. Jika perlu, unduh versi sumbernya (`tarball`).
+
+### 1.2 Proses Instalasi
+
+1.  Jalankan file installer yang sudah diunduh.
+2.  **PENTING:** Pada jendela instalasi pertama, **centang kotak "Add Python 3.9 to PATH"** di bagian bawah. Ini sangat krusial agar Python bisa dikenali oleh sistem operasi dari mana saja.
+    
+3.  Pilih **"Install Now"**.
+4.  Ikuti langkah-langkah instalasi sampai selesai.
+
+---
+
+## Tahap 2: Verifikasi Instalasi dan Environment
+
+### 2.1 Buka Command Prompt/Terminal
+
+1.  **Untuk Windows:** Buka `Command Prompt` (atau `CMD`) dengan mengetik `cmd` di menu Start.
+2.  **Untuk macOS/Linux:** Buka `Terminal` dari Launchpad atau aplikasi.
+
+### 2.2 Periksa Versi Python dan PIP
+
+Ketikkan perintah berikut dan tekan Enter:
+
+```bash
+python --version
