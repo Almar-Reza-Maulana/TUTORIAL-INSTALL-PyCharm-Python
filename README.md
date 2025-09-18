@@ -4,7 +4,7 @@ Halo, sobat coder! Selamat datang di repo ini. Ini tutorial lengkap buat kamu ya
 
 ---
 ## 🤔 Apa itu Python dan Pycharm ❓❓❓
-
+![img](https://github.com/Almar-Reza-Maulana/TUTORIAL-INSTALL-PyCharm-Python/blob/main/Python_coding.jpg)
 ### </> Pengertian Python 
 
 Python adalah bahasa pemrograman tingkat tinggi yang bersifat umum (general-purpose), mudah dibaca, dan fleksibel. Dikembangkan oleh Guido van Rossum pada tahun 1991, Python mendukung berbagai paradigma pemrograman, seperti pemrograman terstruktur, berorientasi objek, dan fungsional. Python banyak digunakan untuk pengembangan web, analisis data, kecerdasan buatan, otomatisasi, dan banyak lagi. 
@@ -24,4 +24,18 @@ Berikut adalah beberapa contoh utamanya:
 4. Pengembangan Perangkat Lunak: Berbagai aplikasi dan alat bantu dibuat menggunakan Python, mulai dari program untuk penelitian ilmiah, aplikasi desktop, hingga bagian-bagian dalam pembuatan video game.
 
 ---
-### Pengertian Pycharm
+### 💻 Pengertian Pycharm
+
+Secara teknis, PyCharm adalah sebuah IDE (Integrated Development Environment). Sederhananya, IDE adalah satu aplikasi yang menggabungkan berbagai alat yang dibutuhkan seorang programmer ke dalam satu tempat yang terpadu.PyCharm ini dikembangkan oleh perusahaan Ceko JetBrains.
+
+#### 🔗 Kaitan PyCharm dengan Bahasa Python
+
+Hubungannya sangat langsung dan tidak terpisahkan: Python adalah bahasanya, sedangkan PyCharm adalah program untuk menulis dan mengelola bahasa tersebut.
+
+- Python adalah Inti ⚙️: Python adalah bahasa pemrograman itu sendiri. Anda harus memasang (install) Python di komputer Anda agar komputer bisa mengerti dan mengeksekusi instruksi yang Anda berikan. Tanpa Python, tidak ada kode yang bisa dijalankan.
+
+- PyCharm adalah Alat Bantu 🌱: PyCharm adalah aplikasi terpisah yang dirancang khusus untuk membuat proses menulis kode Python menjadi jauh lebih mudah, cepat, dan efisien. PyCharm membutuhkan Python untuk berfungsi; ia tidak bisa menjalankan kode tanpa "mesin" Python terpasang di komputer.
+
+Kita sebenarnya bisa menulis kode Python hanya dengan Notepad biasa, lalu menjalankannya secara manual. Namun, cara itu sangat tidak praktis, terutama untuk proyek yang besar. PyCharm menyediakan semua fasilitas yang dibutuhkan agar Anda bisa fokus pada penulisan logika program tanpa repot dengan hal-hal teknis lainnya.
+
+---
