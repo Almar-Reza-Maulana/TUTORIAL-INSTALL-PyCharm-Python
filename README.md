@@ -32,9 +32,13 @@ Secara teknis, PyCharm adalah sebuah IDE (Integrated Development Environment). S
 
 Hubungannya sangat langsung dan tidak terpisahkan: Python adalah bahasanya, sedangkan PyCharm adalah program untuk menulis dan mengelola bahasa tersebut.
 
-- Python adalah Inti ⚙️: Python adalah bahasa pemrograman itu sendiri. Anda harus memasang (install) Python di komputer Anda agar komputer bisa mengerti dan mengeksekusi instruksi yang Anda berikan. Tanpa Python, tidak ada kode yang bisa dijalankan.
+- Python adalah Inti ⚙️:
+  
+  Python adalah bahasa pemrograman itu sendiri. Anda harus memasang (install) Python di komputer Anda agar komputer bisa mengerti dan mengeksekusi instruksi yang Anda berikan. Tanpa Python, tidak ada kode yang bisa dijalankan.
 
-- PyCharm adalah Alat Bantu 🌱: PyCharm adalah aplikasi terpisah yang dirancang khusus untuk membuat proses menulis kode Python menjadi jauh lebih mudah, cepat, dan efisien. PyCharm membutuhkan Python untuk berfungsi; ia tidak bisa menjalankan kode tanpa "mesin" Python terpasang di komputer.
+- PyCharm adalah Alat Bantu 🌱:
+  
+  PyCharm adalah aplikasi terpisah yang dirancang khusus untuk membuat proses menulis kode Python menjadi jauh lebih mudah, cepat, dan efisien. PyCharm membutuhkan Python untuk berfungsi; ia tidak bisa menjalankan kode tanpa "mesin" Python terpasang di komputer.
 
 Kita sebenarnya bisa menulis kode Python hanya dengan Notepad biasa, lalu menjalankannya secara manual. Namun, cara itu sangat tidak praktis, terutama untuk proyek yang besar. PyCharm menyediakan semua fasilitas yang dibutuhkan agar Anda bisa fokus pada penulisan logika program tanpa repot dengan hal-hal teknis lainnya.
 
