@@ -48,21 +48,22 @@ Tutorial ini akan memandumu langkah demi langkah untuk menginstal Python versi 3
 
 ---
 
-## Tahap 1: Instalasi Python 3.9.13
+## Tahap 1: Instalasi Python 
 
 ### 1.1 Unduh Python
 
 1.  Kunjungi situs resmi Python: [https://www.python.org/downloads/release/python-3913/](https://www.python.org/downloads/release/python-3913/).
 2.  Gulir ke bawah ke bagian **Files**. Pilih installer yang sesuai dengan sistem operasi (OS) kamu:
+   ![img](https://github.com/Almar-Reza-Maulana/TUTORIAL-INSTALL-PyCharm-Python/blob/main/Screenshot_install%20web%20python.png)
     * **Untuk Windows:** Cari `Windows installer (64-bit)` jika OS kamu 64-bit.
     * **Untuk macOS:** Cari `macOS 64-bit Intel installer`.
-    * **Untuk Linux:** Python biasanya sudah terpasang. Jika perlu, unduh versi sumbernya (`tarball`).
 
 ### 1.2 Proses Instalasi
 
 1.  Jalankan file installer yang sudah diunduh.
 2.  **PENTING:** Pada jendela instalasi pertama, **centang kotak "Add Python 3.9 to PATH"** di bagian bawah. Ini sangat krusial agar Python bisa dikenali oleh sistem operasi dari mana saja.
-    
+   
+     ![img](https://github.com/Almar-Reza-Maulana/TUTORIAL-INSTALL-PyCharm-Python/blob/main/Screenshot%202025-09-19%20022620.png)
 3.  Pilih **"Install Now"**.
 4.  Ikuti langkah-langkah instalasi sampai selesai.
 
@@ -81,3 +82,45 @@ Ketikkan perintah berikut dan tekan Enter:
 
 ```bash
 python --version
+```
+Outputnya harus menunjukkan versi Python 3.9.13.
+
+Selanjutnya, periksa PIP (Python's Package Installer), alat untuk menginstal library Python:
+```bash
+pip --version
+```
+Outputnya harus menunjukkan versi PIP yang terpasang.
+
+![img](https://github.com/Almar-Reza-Maulana/TUTORIAL-INSTALL-PyCharm-Python/blob/main/Screenshot%202025-09-19%20023800.png)
+
+### 2.3 Periksa Environment Variable (Opsional)
+Jika perintah di atas tidak berhasil, mungkin environment variable belum teratur.
+
+Untuk Windows:
+
+1. Cari "Edit the system environment variables" di menu Start.
+   ![img](https://github.com/Almar-Reza-Maulana/TUTORIAL-INSTALL-PyCharm-Python/blob/main/Screenshot%202025-09-19%20024246.png)
+   
+2. Klik Environment Variables....
+
+3. Di bagian "System variables", cari dan klik Path, lalu klik Edit....
+
+Pastikan ada entri yang mengarah ke lokasi instalasi Python, seperti:
+
+C:\Users\NamaUser\AppData\Local\Programs\Python\Python39
+
+C:\Users\NamaUser\AppData\Local\Programs\Python\Python39\Scripts
+  ![img](https://github.com/Almar-Reza-Maulana/TUTORIAL-INSTALL-PyCharm-Python/blob/main/Screenshot%202025-09-19%20024738-fotor-2025091924919.png)
+  
+Jika tidak ada, tambahkan secara manual.
+
+---
+## Tahap 3: Instalasi PyCharm
+
+### 3.1 Unduh PyCharm
+
+1. Kunjungi situs resmi JetBrains: [https://www.jetbrains.com/pycharm/download/](https://www.jetbrains.com/pycharm/download/).
+
+2. Pastikan kamu memilih tab Community di bagian kiri.
+
+3. Pilih sistem operasi kamu dan klik tombol Download. Pastikan kamu mengunduh versi Community, bukan Professional.
