@@ -119,8 +119,26 @@ Jika tidak ada, tambahkan secara manual.
 
 ### 3.1 Unduh PyCharm
 
-1. Kunjungi situs resmi JetBrains: [https://www.jetbrains.com/pycharm/download/](https://www.jetbrains.com/pycharm/download/).
+1. Kunjungi situs resmi JetBrains: [https://www.jetbrains.com/pycharm/download/other.html](https://www.jetbrains.com/pycharm/download/other.html).
 
-2. Pastikan kamu memilih tab Community di bagian kiri.
-
+2. Pastikan kamu memilih tab Community edition di bagian kanan.
+   ![img](https://github.com/Almar-Reza-Maulana/TUTORIAL-INSTALL-PyCharm-Python/blob/main/Screenshot%202025-09-19%20030714-fotor-202509193850.png)
+   
 3. Pilih sistem operasi kamu dan klik tombol Download. Pastikan kamu mengunduh versi Community, bukan Professional.
+
+### 3.2 Proses Instalasi PyCharm
+
+1. Jalankan file installer yang sudah diunduh.
+
+2. Ikuti petunjuk instalasi. Kamu bisa membiarkan opsi default.
+
+3. Centang "Create Desktop Shortcut" jika kamu ingin ikon pintasan di desktop.
+
+4. Setelah instalasi selesai, jalankan PyCharm.
+
+5. PyCharm akan meminta kamu untuk mengimpor pengaturan atau membuat proyek baru. Pilih "Do not import settings" jika ini instalasi pertamamu.
+
+---
+✅ Selesai!
+
+Sekarang kamu sudah memiliki Python dan PyCharm yang siap digunakan. Selamat memulai perjalanan pemrogramanmu! 🚀
