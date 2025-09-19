@@ -132,10 +132,12 @@ Jika tidak ada, tambahkan secara manual.
 
 2. Ikuti petunjuk instalasi. Kamu bisa membiarkan opsi default.
 
-3. Centang "Create Desktop Shortcut" jika kamu ingin ikon pintasan di desktop.
-
-4. Setelah instalasi selesai, jalankan PyCharm.
-
+3. Centang Semua dan centang "Create Desktop Shortcut" (opsional) jika kamu ingin ikon pintasan di desktop.
+    ![img](https://github.com/Almar-Reza-Maulana/TUTORIAL-INSTALL-PyCharm-Python/blob/main/Screenshot%202025-09-19%20095430.png)
+   
+4.  Setelah instalasi selesai, pilih *i want to manually reboot later* dan jalankan PyCharm.
+    ![img](https://github.com/Almar-Reza-Maulana/TUTORIAL-INSTALL-PyCharm-Python/blob/main/Screenshot%202025-09-19%20100300.png)
+    
 5. PyCharm akan meminta kamu untuk mengimpor pengaturan atau membuat proyek baru. Pilih "Do not import settings" jika ini instalasi pertamamu.
 
 ---
