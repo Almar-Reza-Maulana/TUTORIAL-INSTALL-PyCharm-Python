@@ -34,13 +34,13 @@ Hubungannya sangat langsung dan tidak terpisahkan: Python adalah bahasanya, seda
 
 - Python adalah Inti ⚙️:
   
-  Python adalah bahasa pemrograman itu sendiri. Anda harus memasang (install) Python di komputer Anda agar komputer bisa mengerti dan mengeksekusi instruksi yang Anda berikan. Tanpa Python, tidak ada kode yang bisa dijalankan.
+  Python adalah bahasa pemrograman itu sendiri. Anda harus memasang (install) Python di komputer Anda agar komputer bisa mengerti dan mengeksekusi instruksi yang kamu berikan. Tanpa Python, tidak ada kode yang bisa dijalankan.
 
 - PyCharm adalah Alat Bantu 🌱:
   
   PyCharm adalah aplikasi terpisah yang dirancang khusus untuk membuat proses menulis kode Python menjadi jauh lebih mudah, cepat, dan efisien. PyCharm membutuhkan Python untuk berfungsi; ia tidak bisa menjalankan kode tanpa "mesin" Python terpasang di komputer.
 
-Kita sebenarnya bisa menulis kode Python hanya dengan Notepad biasa, lalu menjalankannya secara manual. Namun, cara itu sangat tidak praktis, terutama untuk proyek yang besar. PyCharm menyediakan semua fasilitas yang dibutuhkan agar Anda bisa fokus pada penulisan logika program tanpa repot dengan hal-hal teknis lainnya.
+Kita sebenarnya bisa menulis kode Python hanya dengan Notepad biasa, lalu menjalankannya secara manual. Namun, cara itu sangat tidak praktis, terutama untuk proyek yang besar. PyCharm menyediakan semua fasilitas yang dibutuhkan agar kamu bisa fokus pada penulisan logika program tanpa repot dengan hal-hal teknis lainnya.
 
 ---
 ## 📤 Panduan Lengkap Instalasi Python dan PyCharm 
