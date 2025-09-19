@@ -143,4 +143,4 @@ Jika tidak ada, tambahkan secara manual.
 ---
 ✅ Selesai!
 
-Sekarang kamu sudah memiliki Python dan PyCharm yang siap digunakan. Selamat memulai perjalanan pemrogramanmu! 🚀
+Udah kelar nih, bro/sis! Instalasi beres, *environment* aman, PyCharm siap digarap. Saatnya bikin karya, jangan cuma jadi wacana. Selamat berkarya dan happy coding! 😉
