@@ -1,6 +1,6 @@
 # 📚 Tutorial Install Python & PyCharm Community Edition – Mulai Ngoding ala Pro!
 
-Halo, sobat coder! Selamat datang di repo ini. Ini tutorial lengkap buat kamu yang baru mulai belajar bahasa Python pake PyCharm . Aku bikin ini biar kamu bisa setup environment ngoding dalam hitungan menit. 
+Halo, sobat coder! Selamat datang di repo ini. Ini tutorial lengkap buat kamu yang baru mulai belajar bahasa Python pake PyCharm . Aku bikin ini biar kamu bisa setup environment ngoding dalam hitungan menit. Siapkan sedikit waktu untuk memulai perjalanan awal ini dan selamat mencoba 😎
 
 ---
 ## 🤔 Apa itu Python dan Pycharm ❓❓❓
@@ -9,7 +9,7 @@ Halo, sobat coder! Selamat datang di repo ini. Ini tutorial lengkap buat kamu ya
 
 Python adalah bahasa pemrograman tingkat tinggi yang bersifat umum (general-purpose), mudah dibaca, dan fleksibel. Dikembangkan oleh Guido van Rossum pada tahun 1991, Python mendukung berbagai paradigma pemrograman, seperti pemrograman terstruktur, berorientasi objek, dan fungsional. Python banyak digunakan untuk pengembangan web, analisis data, kecerdasan buatan, otomatisasi, dan banyak lagi. 
 
-#### Apa Saja Kegunaan Python?
+### 🚀 Apa Saja Kegunaan Python?
 Berikut adalah beberapa contoh utamanya:
 
 1. Pengembangan Web : Python digunakan untuk menjalankan proses di belakang layar sebuah website atau aplikasi. Misalnya, ketika Anda login ke akun Instagram, Python bisa bertugas untuk memeriksa apakah nama pengguna dan kata sandi Anda benar, lalu mengambil data foto dan profil Anda dari database untuk ditampilkan. Google dan Spotify juga menggunakan Python secara ekstensif.
@@ -143,4 +143,4 @@ Jika tidak ada, tambahkan secara manual.
 ---
 ✅ Selesai!
 
-Udah kelar nih, bro/sis! Instalasi beres, *environment* aman, PyCharm siap digarap. Saatnya bikin karya, jangan cuma jadi wacana. Selamat berkarya dan happy coding! 😉
+Udah kelar nih, bro/sis! 🥳. Gimana? gampang kannn. Nahh instalasi beres, *environment* aman, PyCharm siap digarap. Saatnya bikin karya, jangan cuma jadi wacana. Selamat berkarya dan happy coding! 😉
